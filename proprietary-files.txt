@@ -44,5 +44,5 @@ etc/wifi/bcmdhd_ibss.bin
 etc/wifi/bcmdhd_mfg.bin
 etc/wifi/bcmdhd_sta.bin
 etc/wifi/cred.conf
-etc/wifi/nvram_mfg.txt
-etc/wifi/nvram_net.txt
+etc/wifi/nvram_mfg.txt:etc/wifi/nvram_mfg.txt|115ecdd4f082cf465c4db827a57bf6a123dba9ab
+etc/wifi/nvram_net.txt:etc/wifi/nvram_net.txt|0234a1b34f3819beb715d2caf11e44eb653346d3
